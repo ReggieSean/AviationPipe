@@ -1,0 +1,4 @@
+${PODS_ROOT}/Target Support Files/Pods-AviationPipe/Pods-AviationPipe-frameworks.sh
+${BUILT_PRODUCTS_DIR}/PlainPocketFFT/PlainPocketFFT.framework
+${BUILT_PRODUCTS_DIR}/PocketFFT/PocketFFT.framework
+${BUILT_PRODUCTS_DIR}/RosaKit/RosaKit.framework
